@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abhinav Anand</h1>
 <h3 align="center">A passionate frontend developer and Data Science Enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abihnav4201&label=Profile%20views&color=0e75b6&style=flat" alt="abihnav4201" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav4201&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav4201" /> </p>
 
 - 📫 How to reach me **abhinav445.aa@gmail.com**
 
